@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\sebas\\Desktop\\ProyectosFinales\\Engines-7mo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96906FCA-9695-4D2F-A7ED-E010878E055D}|Engines-7mo\\Engines-7mo.vcxproj|C:\\Users\\sebas\\Desktop\\ProyectosFinales\\Engines-7mo\\Engines-7mo\\Engines-7mo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96906FCA-9695-4D2F-A7ED-E010878E055D}|Engines-7mo\\Engines-7mo.vcxproj|solutionrelative:Engines-7mo\\Engines-7mo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Engines-7mo.cpp",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\ProyectosFinales\\Engines-7mo\\Engines-7mo\\Engines-7mo.cpp",
+              "RelativeDocumentMoniker": "Engines-7mo\\Engines-7mo.cpp",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\ProyectosFinales\\Engines-7mo\\Engines-7mo\\Engines-7mo.cpp",
+              "RelativeToolTip": "Engines-7mo\\Engines-7mo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-19T00:45:19.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
